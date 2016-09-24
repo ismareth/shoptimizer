@@ -1,0 +1,12 @@
+webApp/data/
+webApp/node_modules/
+bower_components/
+webApp/files/
+*.iml
+/android.gradle
+/android/local.properties
+/android/.idea/workspace.xml
+/android/.idea/libraries
+.DS_Store
+/android/build
+/android/captures
